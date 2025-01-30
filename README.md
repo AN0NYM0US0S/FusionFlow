@@ -36,3 +36,10 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/AN0NYM0US0S/FusionFlow.git
 ./setup.sh
+```
+
+## 📱 Connect with us on Facebook
+
+<a href="https://www.facebook.com/profile.php?id=100089794036589" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" height="30"/>
+</a>
