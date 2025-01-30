@@ -35,4 +35,4 @@ Ensure you have the following installed:
 ### **2️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/AN0NYM0US0S/FusionFlow.git
-cd FusionFlow
+./setup.sh
